@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 ¡Hola! Soy un apasionado estudiante de Ingeniería en Sistemas con el 70% de mi carrera completada, y cada día estoy más motivado para seguir aprendiendo y superarme en el ámbito tecnológico. Con 22 años y originario de Costa Rica, estoy decidido a marcar la diferencia en el mundo de la tecnología.<br><br>Mi enfoque principal es el desarrollo de software, pero estoy expandiendo mis habilidades hacia la ciberseguridad y el hacking ético a través de cursos adicionales. Este equilibrio entre la creación y la protección me permite abordar los desafíos tecnológicos con una perspectiva integral.<br><br>Estoy ansioso por participar en proyectos innovadores y colaborar con equipos que compartan mi entusiasmo por la tecnología. Mi objetivo es no solo aprender y crecer, sino también contribuir significativamente a cualquier proyecto en el que participe.
+"¡Estoy abierto a nuevas oportunidades y colaboraciones! No dudes en contactarme."
 
 
 ## 🌐 Socials:
